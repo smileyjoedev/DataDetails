@@ -35,6 +35,7 @@ public class Main extends Activity implements OnItemSelectedListener, OnClickLis
 	private int numberResults;
 	private double fileSize;
 	private long aveSpeedDiff;
+	// The amount of hours a user downloads in a day //
 	private double downloadHours;
 	private int downloadDays;
 	private SharedPreferences prefs;
