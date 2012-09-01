@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+   	<style name="bt_decrease">
+   	    <item name="android:layout_height">20dip</item>
+		<item name="android:layout_width">20dip</item>
+		<item name="android:layout_alignParentLeft">true</item>
+		<item name="android:background">@drawable/decrease</item>
+		<item name="android:layout_centerVertical">true</item>
+   	</style>
+   	
+   <style name="bt_increase">
+   	    <item name="android:layout_height">20dip</item>
+		<item name="android:layout_width">20dip</item>
+		<item name="android:layout_alignParentRight">true</item>
+		<item name="android:background">@drawable/increase</item>
+		<item name="android:layout_centerVertical">true</item>
+   	</style>
+</resources>

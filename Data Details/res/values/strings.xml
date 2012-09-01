@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Data Details</string>
+    
+    <string name="tv_file_info_heading">File Info:</string>
+    <string name="tv_file_size_title">File Size:</string>
+    <string name="et_file_size_hint">0.00</string>
+    <string name="tv_download_info_heading">Download Info:</string>
+    <string name="tv_download_speed_heading">Speed:</string>
+    <string name="tv_download_time_heading">Time:</string>
+    <string name="tv_download_results_heading">Results:</string>
+    <string name="tv_download_speed_title">Speed</string>
+    <string name="tv_download_time_title">Time</string>
+    
+    <string name="pref_category_title_download_speed">Download Speed</string>
+    <string name="pref_category_title_about">About</string>
+    <string name="pref_category_general">General</string>
+ 
+    <string name="pref_title_average_min_down_speed">Min Average Speed</string>
+    <string name="pref_name_average_min_down_speed">Min Average Speed</string>
+    <string name="pref_summary_average_min_down_speed">The minimum average speed in kb/s you are likely to get</string>
+    
+    <string name="pref_title_average_max_down_speed">Max Average Speed</string>
+    <string name="pref_name_average_max_down_speed">Max Average Speed</string>
+    <string name="pref_summary_average_max_down_speed">The maximum average speed in kb/s you are likely to get</string>
+    
+    <string name="pref_title_number_results">Number results</string>
+    <string name="pref_name_number_results">Number Results</string>
+    <string name="pref_summary_number_results">The Number of results to show</string>
+    
+    <string name="pref_title_download_hours">Download time</string>
+    <string name="pref_name_download_hours">Download time</string>
+    <string name="pref_summary_download_hours">The Number of hours you download in a day</string>
+    
+    <string name="pref_title_download_days">Download days</string>
+    <string name="pref_name_download_days">Download days</string>
+    <string name="pref_summary_download_days">The Number of days you download in a week</string>
+    
+    <string name="pref_title_contact">Contact</string>
+    <string name="pref_summary_contact">Contact the developer</string>
+    
+    <string name="pref_title_average_min_down_speed_type">Min Average Speed Format</string>
+    <string name="pref_summary_average_min_down_speed_type">The Format the download speed is in</string>
+    
+    <string name="pref_title_average_max_down_speed_type">Max Average Speed Format</string>
+    <string name="pref_summary_average_max_down_speed_type">The Format the download speed is in</string>
+    
+    <string name="pref_title_file_size_type">File Size Format</string>
+    <string name="pref_summary_file_size_type">The Format the file size is in</string>
+    
+    <string name="tv_download_speed_min_title">Min:</string>
+    <string name="tv_download_speed_max_title">Max:</string>
+    <string name="et_download_speed_min_hint">In kb/s</string>
+    <string name="et_download_speed_max_hint">In kb/s</string>
+    
+    <string name="tv_download_time_days_title">Days:</string>
+    <string name="tv_download_time_hours_title">Hours:</string>
+    <string name="et_download_time_days_hint">Per Week</string>
+    <string name="et_download_time_hours_hint">Per Day</string>
+    
+    <string name="tv_results_max_heading">Maximum:</string>
+    <string name="tv_max_time_title">Time</string>
+    <string name="tv_max_size_title">Size</string>
+    
+    <string name="second_title">Second</string>
+    <string name="minute_title">Minute</string>
+    <string name="hour_title">Hour</string>
+    <string name="day_title">Day</string>
+    <string name="week_title">Week</string>
+    <string name="month_title">Month</string>
+    <string name="year_title">Year</string>
+    
+    <string-array name="array_file_size_types">
+        <item>b (Bits)</item>
+        <item>B (Bytes)</item>
+        <item>KB (KiloBytes)</item>
+        <item>MB (MegaBytes)</item>
+        <item>GB (GigaBytes)</item>
+        <item>TB (TerraBytes)</item>
+        <item>PB (PetaBytes)</item>
+        <item>EB (ExaBytes)</item>
+        <item>ZB (ZettaBytes)</item>
+        <item>YB (YottaBytes)</item>
+    </string-array>
+
+    <string-array name="array_file_size_types_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    
+    <string-array name="array_speed_types">
+        <item>b/s (Bits)</item>
+        <item>B/s (Bytes)</item>
+        <item>KB/s (KiloBytes)</item>
+        <item>MB/s (MegaBytes)</item>
+        <item>GB/s (GigaBytes)</item>
+        <item>TB/s (TerraBytes)</item>
+        <item>PB/s (PetaBytes)</item>
+        <item>EB/s (ExaBytes)</item>
+        <item>ZB/s (ZettaBytes)</item>
+        <item>YB/s (YottaBytes)</item>
+    </string-array>
+
+    <string-array name="array_speed_types_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    
+</resources>
