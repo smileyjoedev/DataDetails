@@ -31,6 +31,7 @@ public class Main extends Activity implements OnItemSelectedListener, OnClickLis
 	private int maxSpeedType;
 	private File aveMinDown;
 	private File aveMaxDown;
+	// The number of results to show //
 	private int numberResults;
 	private double fileSize;
 	private long aveSpeedDiff;
